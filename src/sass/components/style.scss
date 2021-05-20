@@ -1,0 +1,40 @@
+.countries-section {
+  text-align: center;
+}
+
+.finded-country {
+  text-align: start;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.country-input {
+  width: 400px;
+  height: 30px;
+}
+
+.country-name {
+  font-size: 46px;
+}
+
+.finded-country-languages-list {
+  padding-top: 10px;
+}
+
+.finded-country-list-item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.country-language:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.country-flag {
+  height: 400px;
+  margin-left: 100px;
+}
+
+.finded-country-list {
+  display: flex;
+  justify-content: center;
+}
